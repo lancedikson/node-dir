@@ -4,7 +4,7 @@
   "description": "asynchronous file and directory operations for Node.js",
   "main": "index",
   "homepage": "https://github.com/fshost",
-  "repository": "https://github.com/fshost/node-dir",
+  "repository": "https://github.com/lancedikson/node-dir",
   "author": {
     "name": "Nathan Cartwright",
     "email": "fshost@yahoo.com",
