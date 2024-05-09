@@ -1,3 +1,0 @@
-begin content of file3
-content body
-end content of file3
